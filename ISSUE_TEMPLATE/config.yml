@@ -1,0 +1,20 @@
+# GitHub Issue Template Configuration
+
+templates:
+  - name: Bug Report
+    description: Report einen Bug
+    title: "[BUG] "
+    labels: 
+      - bug
+    
+  - name: Feature Request
+    description: Feature Request einreichen
+    title: "[FEATURE] "
+    labels:
+      - enhancement
+    
+  - name: Task
+    description: Task / Arbeit erstellen
+    title: "[TASK] "
+    labels:
+      - task
