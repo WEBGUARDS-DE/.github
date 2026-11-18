@@ -1,12 +1,17 @@
-## Hi there 👋
+# WEBGUARDS-DE
 
-<!--
+WEBGUARDS ist ein Webdesign- und Entwicklungsbüro aus Rostock. Die Organisation bündelt Websites, Apps und Projekte der WEBGUARDS UG und ihrer Beteiligungen.
 
-**Here are some ideas to get you started:**
+## Projekte
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **Korbgraal** – Strandkorb-Buchung und -Verwaltung (Web und Android)
+- **Studentenwohnen** – Plattform für Studentenwohnen
+- **Eventbooking** – Buchungsplattform für Veranstaltungen
+- **Help** – öffentliche Support-Dokumentation
+
+Interne Repositories der Organisation sind privat.
+
+## Kontakt
+
+- Website: [webguards.de](https://webguards.de)
+- Maintainer: Olaf Scharfenberg
